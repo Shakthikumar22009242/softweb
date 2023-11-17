@@ -670,12 +670,13 @@ form .btn2:hover{
 .copyright i{
     color: rgb(122, 5, 5);
 }
+
 ```
 
 ## OUTPUT:
-![](WEB07-1.png.crdownload)
-![](WEB07-2.png.crdownload)
-![](WEB07-3.png.crdownload)
+![](WEB07-1.png)
+![](WEB07-2.png)
+![](WEB07-3.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
